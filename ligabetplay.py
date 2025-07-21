@@ -1,3 +1,9 @@
+"""""
+nombre:valentina mancilla
+descripcion:hacer una liga betplay
+fecha:19/07/2025
+"""
+
 import os
 
 liga = []
